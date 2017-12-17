@@ -25,3 +25,9 @@ if ("2" === 2) {
 if ( !( ("2" === 2 ) && (8 , 4) ) ) {
     document.write("<br>prawda");
 }
+
+( 8 < 4 ) ? console.log("prawda") : console.log("fałsz");
+
+( 8 > 4 ) ? console.log("prawda") : console.log("fałsz");
+
+( 8 < 4 ) ? console.log("prawda") : console.error("fałsz");
