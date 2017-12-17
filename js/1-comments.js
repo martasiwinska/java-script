@@ -1,0 +1,2 @@
+//komentarz liniony
+
